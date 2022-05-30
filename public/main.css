@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Open+Sans:ital,wght@0,300;0,400;1,400&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+
+}
+p, a, h1, h2, h3{
+    padding: 0;
+    margin: 0;
+}
+.notion{
+    margin: auto;
+    max-width: 700px;
+}
+.notion > h1{
+    text-align: center;
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+}
+
+.notionInfo{
+    border: 1px dotted #7b7b7b;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 15px 0 20px 0;
+}
+.notionInfo p{
+    font-size: 11pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 5px 0;
+}
+.notionInfo p i{
+    margin-right: 5px;
+    vertical-align: middle;
+    opacity: .65;
+}
+
+.idea{
+    border-top: 1px solid #d9d9d9;
+    border-radius: 10px;
+    padding: 10px 10px 5px 10px;
+}
+.question{
+    margin: 10px 0 10px;
+}
+.question h2{
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+
+    text-align: center;
+    font-size: 16pt;
+    color: #c72727;
+}
+.question h2 i{
+    transform: rotate(90deg);
+    margin-right: 10px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+.idea .top{
+    padding-bottom: 5px;
+}
+.idea .top h2{
+    font-size: 17pt;
+    font-family: 'Arvo', serif;
+    font-weight: 400;
+}
+.idea .top h3{
+    font-size: 10pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    filter: brightness(70%);
+}
+.idea .top h3 i{
+    margin-right: 5px;
+    margin-left: 1px;
+    opacity: .5;
+}
+
+.idea .bottom{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding-bottom: 10px;
+
+    font-size: 11pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.idea .bottom p.theory{
+    min-width: 25%;
+    max-width: 25%;
+    padding-right: 10px;
+}
+.idea .bottom p.description{
+    text-align: justify;
+    text-justify: inter-word;
+    border-left: 1px solid #d9d9d9;
+    padding-left: 10px;
+}
+
+.idea .quotes{
+    margin: auto;
+}
+.idea .quotes p{
+    padding: 10px 0;
+    border-top: 1px dashed #d9d9d9;
+    font-size: 10pt;
+    font-family: 'Arvo', sans-serif;
+    font-weight: 400;
+}
+
+/* Reload Button */
+
+.reload{
+    margin-left: 5px;
+    padding: 5px;
+    display: none;
+    position: absolute;
+    background-color: #e0e1ec;
+    border-radius: 4px;
+
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+
+    cursor: pointer;
+}
+.reload i{
+    color: #2d2d2d;
+}
+.reload p{
+    color: #2d2d2d;
+    font-size: 11pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.notion:hover .reload{
+    display: flex;
+}
+
+main > .reload{
+    padding: 10px;
+    display: flex;
+    position: static;
+    max-width: 500px;
+    justify-content: center;
+    margin: 30px auto 30px auto;
+}
+
+/* Loader */
+
+body > .loader.active{
+    z-index: 980;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .7;
+    overflow: hidden;
+}
+body > .loader.active .loader-div{
+    z-index: 990;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 75%;
+    transform: translateY(-50%) translateX(-50%);
+}
+body > .loader.active .loader-bar{
+    width: 75%;
+    height: 4px;
+    background-color: #4b63b7;
+    animation-name: loader-div;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes loader-div {
+    0% {
+        width: 0;
+    }
+    50% {
+        margin-left: 30%;
+        width: 40%;
+    }
+    100% {
+        margin-left: 100%;
+        width: 0;
+    }
+}
