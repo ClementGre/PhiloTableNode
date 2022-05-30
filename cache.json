@@ -766,402 +766,10 @@
         null,
         null,
         null,
-        {
-            "Philosophe": {
-                "id": "%3BeI_",
-                "type": "relation",
-                "relation": []
-            },
-            "Citation": {
-                "id": "JzU%3D",
-                "type": "relation",
-                "relation": []
-            },
-            "Notion": {
-                "id": "aS%7B%3F",
-                "type": "multi_select",
-                "multi_select": [
-                    {
-                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
-                        "name": "Le Travail",
-                        "color": "orange"
-                    }
-                ]
-            },
-            "Détails": {
-                "id": "h%5EIu",
-                "type": "rich_text",
-                "rich_text": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "La nécessité du travail est-elle une contrainte, ou un moyen de libération ?",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": true,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "red"
-                        },
-                        "plain_text": "La nécessité du travail est-elle une contrainte, ou un moyen de libération ?",
-                        "href": null
-                    }
-                ]
-            },
-            "Ouvrage": {
-                "id": "yj%3CY",
-                "type": "rich_text",
-                "rich_text": []
-            },
-            "Order": {
-                "id": "%7Cm~D",
-                "type": "number",
-                "number": 99
-            },
-            "Thèse": {
-                "id": "title",
-                "type": "title",
-                "title": []
-            }
-        },
-        {
-            "Philosophe": {
-                "id": "%3BeI_",
-                "type": "relation",
-                "relation": []
-            },
-            "Citation": {
-                "id": "JzU%3D",
-                "type": "relation",
-                "relation": [
-                    {
-                        "id": "f93dfc22-dca5-4d89-b207-d934c316b927"
-                    }
-                ]
-            },
-            "Notion": {
-                "id": "aS%7B%3F",
-                "type": "multi_select",
-                "multi_select": [
-                    {
-                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
-                        "name": "Le Travail",
-                        "color": "orange"
-                    }
-                ]
-            },
-            "Détails": {
-                "id": "h%5EIu",
-                "type": "rich_text",
-                "rich_text": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Conception négative du travail dès l’antiquité : le travail est contraint aux esclaves. Les hommes libres pratiquent l’",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Conception négative du travail dès l’antiquité : le travail est contraint aux esclaves. Les hommes libres pratiquent l’",
-                        "href": null
-                    },
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "otium",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": true,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "otium",
-                        "href": null
-                    },
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": " : le loisir studieux, tandis que pour les esclaves, on parle de ",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": " : le loisir studieux, tandis que pour les esclaves, on parle de ",
-                        "href": null
-                    },
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "negotium ",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": true,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "negotium ",
-                        "href": null
-                    },
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": ": le travail.\nDans la Genèse de la Bible, le travail est une malédiction du pêché originel : dieu condamne l’homme au travail (≠ jardin d’Eden).",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": ": le travail.\nDans la Genèse de la Bible, le travail est une malédiction du pêché originel : dieu condamne l’homme au travail (≠ jardin d’Eden).",
-                        "href": null
-                    }
-                ]
-            },
-            "Ouvrage": {
-                "id": "yj%3CY",
-                "type": "rich_text",
-                "rich_text": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Genèse de la Bible",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "green"
-                        },
-                        "plain_text": "Genèse de la Bible",
-                        "href": null
-                    }
-                ]
-            },
-            "Order": {
-                "id": "%7Cm~D",
-                "type": "number",
-                "number": 100
-            },
-            "Thèse": {
-                "id": "title",
-                "type": "title",
-                "title": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Le travail est réservé aux esclaves, et il est associé dans la Bible à la peine, la souffrance, la contrainte et la labeur.",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Le travail est réservé aux esclaves, et il est associé dans la Bible à la peine, la souffrance, la contrainte et la labeur.",
-                        "href": null
-                    }
-                ]
-            }
-        },
-        {
-            "Philosophe": {
-                "id": "%3BeI_",
-                "type": "relation",
-                "relation": [
-                    {
-                        "id": "16f2c2bb-d394-45a1-a219-aa1d92a99c2a"
-                    }
-                ]
-            },
-            "Citation": {
-                "id": "JzU%3D",
-                "type": "relation",
-                "relation": []
-            },
-            "Notion": {
-                "id": "aS%7B%3F",
-                "type": "multi_select",
-                "multi_select": [
-                    {
-                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
-                        "name": "Le Travail",
-                        "color": "orange"
-                    }
-                ]
-            },
-            "Détails": {
-                "id": "h%5EIu",
-                "type": "rich_text",
-                "rich_text": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Travail = discipline (retarde l’accomplissement des désirs) + se libérer de la nature qui est en nous (tyrannie des instincts).\nLe but de l’Homme est d’être reconnu comme supérieur → lute à mort.\nLe maître est dépendant du savoir-faire de l’esclave, il ne peut pas résister seul. L’esclave, lui, apprends à maîtriser la nature → liberté.\nLe maître est soumis à un double niveau de dépendance : physique pour sa survie et psychologique pour être reconnu comme maître.\n”Le travail servile marqué du sceau de la contrainte et de la nécessité, rend sa liberté à l’esclave.”\nEx 1940 : femmes autorisées à travailler → indépendance et liberté.",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Travail = discipline (retarde l’accomplissement des désirs) + se libérer de la nature qui est en nous (tyrannie des instincts).\nLe but de l’Homme est d’être reconnu comme supérieur → lute à mort.\nLe maître est dépendant du savoir-faire de l’esclave, il ne peut pas résister seul. L’esclave, lui, apprends à maîtriser la nature → liberté.\nLe maître est soumis à un double niveau de dépendance : physique pour sa survie et psychologique pour être reconnu comme maître.\n”Le travail servile marqué du sceau de la contrainte et de la nécessité, rend sa liberté à l’esclave.”\nEx 1940 : femmes autorisées à travailler → indépendance et liberté.",
-                        "href": null
-                    }
-                ]
-            },
-            "Ouvrage": {
-                "id": "yj%3CY",
-                "type": "rich_text",
-                "rich_text": []
-            },
-            "Order": {
-                "id": "%7Cm~D",
-                "type": "number",
-                "number": 101
-            },
-            "Thèse": {
-                "id": "title",
-                "type": "title",
-                "title": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Le travail est le lieu de la libération et de l’émancipation de l’humanité.",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Le travail est le lieu de la libération et de l’émancipation de l’humanité.",
-                        "href": null
-                    }
-                ]
-            }
-        },
-        {
-            "Philosophe": {
-                "id": "%3BeI_",
-                "type": "relation",
-                "relation": [
-                    {
-                        "id": "c074d68d-4e13-4e21-b33b-5eadb2d8f2ba"
-                    }
-                ]
-            },
-            "Citation": {
-                "id": "JzU%3D",
-                "type": "relation",
-                "relation": []
-            },
-            "Notion": {
-                "id": "aS%7B%3F",
-                "type": "multi_select",
-                "multi_select": [
-                    {
-                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
-                        "name": "Le Travail",
-                        "color": "orange"
-                    }
-                ]
-            },
-            "Détails": {
-                "id": "h%5EIu",
-                "type": "rich_text",
-                "rich_text": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Il y a aliénation (objet remplaçable, moyen et non fin) du travailleur avec la déqualification et le travail à la chaîne.\nLe prolétaire produit plus de valeur que ce qu’il coûte au capitaliste. Dans le système capitaliste, le travail déshumanise l’Homme (+ extension aux femmes et enfants).\n⇒ Les travailleurs ont rien à perdre à se révolter (communisme).",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Il y a aliénation (objet remplaçable, moyen et non fin) du travailleur avec la déqualification et le travail à la chaîne.\nLe prolétaire produit plus de valeur que ce qu’il coûte au capitaliste. Dans le système capitaliste, le travail déshumanise l’Homme (+ extension aux femmes et enfants).\n⇒ Les travailleurs ont rien à perdre à se révolter (communisme).",
-                        "href": null
-                    }
-                ]
-            },
-            "Ouvrage": {
-                "id": "yj%3CY",
-                "type": "rich_text",
-                "rich_text": []
-            },
-            "Order": {
-                "id": "%7Cm~D",
-                "type": "number",
-                "number": 102
-            },
-            "Thèse": {
-                "id": "title",
-                "type": "title",
-                "title": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Les prolétaires (classe sociale qui ne possèdent que sa force de travail) son exploités et aliénés. Travail = déshumanisation.",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Les prolétaires (classe sociale qui ne possèdent que sa force de travail) son exploités et aliénés. Travail = déshumanisation.",
-                        "href": null
-                    }
-                ]
-            }
-        },
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -9296,6 +8904,407 @@
                 "id": "title",
                 "type": "title",
                 "title": []
+            }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
+                        "name": "Le Travail",
+                        "color": "orange"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La nécessité du travail est-elle une contrainte, ou un moyen de libération ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "La nécessité du travail est-elle une contrainte, ou un moyen de libération ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 99
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "f93dfc22-dca5-4d89-b207-d934c316b927"
+                    }
+                ]
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
+                        "name": "Le Travail",
+                        "color": "orange"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Conception négative du travail dès l’antiquité : le travail est contraint aux esclaves. Les hommes libres pratiquent l’",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Conception négative du travail dès l’antiquité : le travail est contraint aux esclaves. Les hommes libres pratiquent l’",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "otium",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": true,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "otium",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " : le loisir studieux, tandis que pour les esclaves, on parle de ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " : le loisir studieux, tandis que pour les esclaves, on parle de ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "negotium ",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": true,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "negotium ",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": ": le travail.\nDans la Genèse de la Bible, le travail est une malédiction du pêché originel : dieu condamne l’homme au travail (≠ jardin d’Eden).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": ": le travail.\nDans la Genèse de la Bible, le travail est une malédiction du pêché originel : dieu condamne l’homme au travail (≠ jardin d’Eden).",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Genèse de la Bible",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "green"
+                        },
+                        "plain_text": "Genèse de la Bible",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 100
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le travail est réservé aux esclaves, et il est associé dans la Bible à la peine, la souffrance, la contrainte et la labeur.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le travail est réservé aux esclaves, et il est associé dans la Bible à la peine, la souffrance, la contrainte et la labeur.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "16f2c2bb-d394-45a1-a219-aa1d92a99c2a"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
+                        "name": "Le Travail",
+                        "color": "orange"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Travail = discipline (retarde l’accomplissement des désirs) + se libérer de la nature qui est en nous (tyrannie des instincts).\nLe but de l’Homme est d’être reconnu comme supérieur → lute à mort.\nLe maître est dépendant du savoir-faire de l’esclave, il ne peut pas résister seul. L’esclave, lui, apprends à maîtriser la nature → liberté.\nLe maître est soumis à un double niveau de dépendance : physique pour sa survie et psychologique pour être reconnu comme maître.\n”Le travail servile marqué du sceau de la contrainte et de la nécessité, rend sa liberté à l’esclave.”\nEx 1940 : femmes autorisées à travailler → indépendance et liberté.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Travail = discipline (retarde l’accomplissement des désirs) + se libérer de la nature qui est en nous (tyrannie des instincts).\nLe but de l’Homme est d’être reconnu comme supérieur → lute à mort.\nLe maître est dépendant du savoir-faire de l’esclave, il ne peut pas résister seul. L’esclave, lui, apprends à maîtriser la nature → liberté.\nLe maître est soumis à un double niveau de dépendance : physique pour sa survie et psychologique pour être reconnu comme maître.\n”Le travail servile marqué du sceau de la contrainte et de la nécessité, rend sa liberté à l’esclave.”\nEx 1940 : femmes autorisées à travailler → indépendance et liberté.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 101
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le travail est le lieu de la libération et de l’émancipation de l’humanité.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le travail est le lieu de la libération et de l’émancipation de l’humanité.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "c074d68d-4e13-4e21-b33b-5eadb2d8f2ba"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "97429d25-080d-48d6-9a22-059aca9e7ce6",
+                        "name": "Le Travail",
+                        "color": "orange"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Il y a aliénation (objet remplaçable, moyen et non fin) du travailleur avec la déqualification et le travail à la chaîne.\nLe prolétaire produit plus de valeur que ce qu’il coûte au capitaliste. Dans le système capitaliste, le travail déshumanise l’Homme (+ extension aux femmes et enfants).\n⇒ Les travailleurs ont rien à perdre à se révolter (communisme).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Il y a aliénation (objet remplaçable, moyen et non fin) du travailleur avec la déqualification et le travail à la chaîne.\nLe prolétaire produit plus de valeur que ce qu’il coûte au capitaliste. Dans le système capitaliste, le travail déshumanise l’Homme (+ extension aux femmes et enfants).\n⇒ Les travailleurs ont rien à perdre à se révolter (communisme).",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 102
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Les prolétaires (classe sociale qui ne possèdent que sa force de travail) son exploités et aliénés. Travail = déshumanisation.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Les prolétaires (classe sociale qui ne possèdent que sa force de travail) son exploités et aliénés. Travail = déshumanisation.",
+                        "href": null
+                    }
+                ]
             }
         },
         {

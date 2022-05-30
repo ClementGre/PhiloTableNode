@@ -4,12 +4,10 @@ import _ from 'lodash';
 import fs from 'fs'
 import express from 'express'
 
-let TOKEN;
-fs.readFile('secret.json', 'utf-8', (err, data) => {
-    if(err) throw err;
-    if(data) TOKEN = JSON.parse(data.toString()).token;
-});
 
+const secrets = JSON.parse(fs.readFileSync('secret.json', 'utf-8').toString())
+
+const TOKEN = secrets.token
 const IDEAS_DB_ID = '2e1e0dfa4dbb46dd8d6f9fa4f69c4a0c'
 const AUTHORS_DB_ID = '5950c6f8f9054e058a0fc403cf8ab511'
 const QUOTES_DB_ID = '435e9cede083452a98247441c2b56517'
