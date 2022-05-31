@@ -272,7 +272,7 @@ class Notion {
 
         return `<div class="notion" id="` + this.name.replace(/\s/g, '').toLowerCase() + `">
                     <hr>
-                    <div class="reload" notion="` + this.name + `" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = 'reload/' + this.getAttribute('notion');">
+                    <div class="reload" notion="` + this.name + `" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = 'reload/' + this.getAttribute('notion') + '/';">
                         <i class="fa-solid fa-rotate"></i>
                         <p>Actualiser</p>
                     </div>
