@@ -5,7 +5,7 @@ import fs from 'fs'
 import express from 'express'
 
 
-const secrets = JSON.parse(fs.readFileSync('secret.json', 'utf-8').toString())
+const secrets = JSON.parse(fs.readFileSync('secrets.json', 'utf-8').toString())
 
 const TOKEN = secrets.token
 const IDEAS_DB_ID = '2e1e0dfa4dbb46dd8d6f9fa4f69c4a0c'
@@ -33,16 +33,17 @@ app.get('/', function (req, res) {
     })
 })
 app.get('/reloadother', function (req, res) {
+    console.log("Reload other (clearing authors, quotes & notions)")
     delete cache.authors
     delete cache.quotes
     delete cache.notions
     saveCache()
-    res.redirect(307, '/');
+    res.redirect(307, '../');
 })
 app.get('/reload/:notion', function (req, res) {
     console.log("Reloading notion", req.params.notion)
     reloadNotion(req.params.notion).then(r => {
-        res.redirect(307, '/#' + req.params.notion.replace(/\s/g, '').toLowerCase());
+        res.redirect(307, '../../#' + req.params.notion.replace(/\s/g, '').toLowerCase());
     })
 })
 
@@ -271,7 +272,7 @@ class Notion {
 
         return `<div class="notion" id="` + this.name.replace(/\s/g, '').toLowerCase() + `">
                     <hr>
-                    <div class="reload" notion="` + this.name + `" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = '/reload/' + this.getAttribute('notion');">
+                    <div class="reload" notion="` + this.name + `" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = 'reload/' + this.getAttribute('notion');">
                         <i class="fa-solid fa-rotate"></i>
                         <p>Actualiser</p>
                     </div>

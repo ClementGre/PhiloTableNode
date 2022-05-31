@@ -20,7 +20,7 @@ const html_before = `
 
 const html_after = `
 
-<div class="reload" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = '/reloadother/'">
+<div class="reload" onclick="document.getElementById('js-page-loader').classList.add('active'); location.href = 'reloadother/'">
     <i class="fa-solid fa-rotate"></i>
     <p>Actualiser les notions, auteurs et citations</p>
 </div>
