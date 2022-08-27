@@ -805,6 +805,124 @@
         null,
         null,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         {
             "Philosophe": {
                 "id": "%3BeI_",
@@ -1809,17 +1927,6 @@
                 ]
             }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
             "Philosophe": {
                 "id": "%3BeI_",
@@ -6829,7 +6936,7 @@
                     {
                         "type": "text",
                         "text": {
-                            "content": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellecte)\nPlaton sépare le monde semsible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes...). Monde sensible = copies éphémères des idées éternelles (ex d’une pomme).\nNotre corps (= sens, éphémère) est un obstacle à la vérité. La vérité ne serait alors que les idées (mathématiques). Vérité = stabilité, ne s’oublie pas.",
+                            "content": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellecte)\nPlaton sépare le monde sensible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes...). Monde sensible = copies éphémères des idées éternelles (ex d’une pomme).\nNotre corps (= sens, éphémère) est un obstacle à la vérité. La vérité ne serait alors que les idées (mathématiques). Vérité = stabilité, ne s’oublie pas.",
                             "link": null
                         },
                         "annotations": {
@@ -6840,7 +6947,7 @@
                             "code": false,
                             "color": "default"
                         },
-                        "plain_text": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellecte)\nPlaton sépare le monde semsible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes...). Monde sensible = copies éphémères des idées éternelles (ex d’une pomme).\nNotre corps (= sens, éphémère) est un obstacle à la vérité. La vérité ne serait alors que les idées (mathématiques). Vérité = stabilité, ne s’oublie pas.",
+                        "plain_text": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellecte)\nPlaton sépare le monde sensible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes...). Monde sensible = copies éphémères des idées éternelles (ex d’une pomme).\nNotre corps (= sens, éphémère) est un obstacle à la vérité. La vérité ne serait alors que les idées (mathématiques). Vérité = stabilité, ne s’oublie pas.",
                         "href": null
                     }
                 ]
@@ -8906,15 +9013,6 @@
                 "title": []
             }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
             "Philosophe": {
                 "id": "%3BeI_",
@@ -9372,10 +9470,6 @@
                 ]
             }
         },
-        null,
-        null,
-        null,
-        null,
         {
             "Philosophe": {
                 "id": "%3BeI_",
@@ -9771,9 +9865,1318 @@
                     }
                 ]
             }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "bdfd9082-f5c7-47c8-a277-ba2b872630f9",
+                        "name": "La Religion",
+                        "color": "yellow"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La religion est-elle rationnelle ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "La religion est-elle rationnelle ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 103
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "1e1918b3-bd76-42bd-89eb-84c5f347cb7e"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "bdfd9082-f5c7-47c8-a277-ba2b872630f9",
+                        "name": "La Religion",
+                        "color": "yellow"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le monde est si complexe et tout est si cohérent que seul un grand ingénieur aurait pu créer cette symbiose :\n- Oiseau pique-bœufs qui débarrasse son hôte de parasites (rhinocéros)\n- Anémone de mer qui s’accroche à la coquille du bernard-l’hermite (le protège avec ses tentacules, et peut se nourrir de restes).\n- Poisson nettoyeur qui nettoie les dents des requins par exemple.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le monde est si complexe et tout est si cohérent que seul un grand ingénieur aurait pu créer cette symbiose :\n- Oiseau pique-bœufs qui débarrasse son hôte de parasites (rhinocéros)\n- Anémone de mer qui s’accroche à la coquille du bernard-l’hermite (le protège avec ses tentacules, et peut se nourrir de restes).\n- Poisson nettoyeur qui nettoie les dents des requins par exemple.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 104
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Religion = sentiment naturel de force supérieure (Grand Horloger). Explique le parfait ordonnancement du monde.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Religion = sentiment naturel de force supérieure (Grand Horloger). Explique le parfait ordonnancement du monde.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "c074d68d-4e13-4e21-b33b-5eadb2d8f2ba"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "ee85d4ff-5f37-4f7e-8401-f8338082084f"
+                    }
+                ]
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "bdfd9082-f5c7-47c8-a277-ba2b872630f9",
+                        "name": "La Religion",
+                        "color": "yellow"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Nier la religion, c’est exiger son bonheur réel immédiat. La religion permet aux patrons de repousser le bonheur des employés au futur. Aussi, les religieux (prêtres) exigent de l’argent pour qu’ils rachètent leurs torts. Ce n’est qu’une escroquerie. → Révolution & communisme.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Nier la religion, c’est exiger son bonheur réel immédiat. La religion permet aux patrons de repousser le bonheur des employés au futur. Aussi, les religieux (prêtres) exigent de l’argent pour qu’ils rachètent leurs torts. Ce n’est qu’une escroquerie. → Révolution & communisme.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 105
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La religion est utilisée à des fins de manipulation, aliénation du travailleur, bonheur remis à l’au-delà.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "La religion est utilisée à des fins de manipulation, aliénation du travailleur, bonheur remis à l’au-delà.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "0f90ac9f-5fa5-4cc1-82dd-0eda5be7e296"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "bdfd9082-f5c7-47c8-a277-ba2b872630f9",
+                        "name": "La Religion",
+                        "color": "yellow"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Les morales poussent à délaisser son existence matérielle au profit de valeurs morales devant permettre d’atteindre un paradis illusoire.\nRenversement des valeurs (échelle de la vie ≠ échelle de la morale).\nLa relation avec un dieu est dépassée, défend le vitalisme (chacun est son propre dieu) ⇒ Délivre l’Humanité du sentiment de dette envers son origine. Ce point de vue est considéré comme de l’athéisme.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Les morales poussent à délaisser son existence matérielle au profit de valeurs morales devant permettre d’atteindre un paradis illusoire.\nRenversement des valeurs (échelle de la vie ≠ échelle de la morale).\nLa relation avec un dieu est dépassée, défend le vitalisme (chacun est son propre dieu) ⇒ Délivre l’Humanité du sentiment de dette envers son origine. Ce point de vue est considéré comme de l’athéisme.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 106
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Les morales religieuses sont à délaisser car elles s’opposent à l’échelle de la vie. (altruisme = sacrifice et égoïsme = satisfaction des désirs)",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Les morales religieuses sont à délaisser car elles s’opposent à l’échelle de la vie. (altruisme = sacrifice et égoïsme = satisfaction des désirs)",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "bdfd9082-f5c7-47c8-a277-ba2b872630f9",
+                        "name": "La Religion",
+                        "color": "yellow"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Combat des Lumières : laïcité qui veut un rapport non dogmatique à la vérité de fait, la diversité de penser. Mais foi intacte : il faut distinguer la croyance (démontrable), de la foi (sentiment).\nExemple des croisades. La religion mêne à des désastres → tolérance.\nLa limite de l’intolérable tient à ceux qui refusent d’accepter la tolérance. (Ex idéologies totalitaires et conversions).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Combat des Lumières : laïcité qui veut un rapport non dogmatique à la vérité de fait, la diversité de penser. Mais foi intacte : il faut distinguer la croyance (démontrable), de la foi (sentiment).\nExemple des croisades. La religion mêne à des désastres → tolérance.\nLa limite de l’intolérable tient à ceux qui refusent d’accepter la tolérance. (Ex idéologies totalitaires et conversions).",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 107
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Peut-on tout tolérer ? (ex. ces deux points de vue.) Les religions divisent, il faut donc être tolérant, mais avec des limites.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Peut-on tout tolérer ? (ex. ces deux points de vue.) Les religions divisent, il faut donc être tolérant, mais avec des limites.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le langage permet-il de rendre compte de la réalité mouvante et unique ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "Le langage permet-il de rendre compte de la réalité mouvante et unique ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 108
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "c634fc38-c294-4bb7-8840-7c7db0146677"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellect)\nPlaton sépare le monde sensible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes, langage…). Monde sensible = copies éphémères des idées éternelles. Le langage permet donc d’accéder au monde intelligible, dévoilant l’essence cachée des choses.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "C.f Allégorie de la caverne :\n- Monde sensible (illusion, éphémère : accessible par les sens)\n- Monde intelligible (idées, éternel, réalité : accessible par l’intellect)\nPlaton sépare le monde sensible (sens) et intelligible (idées) en montrant qu’il y a moyens de trouver des concepts éternels et logiques (théorèmes, langage…). Monde sensible = copies éphémères des idées éternelles. Le langage permet donc d’accéder au monde intelligible, dévoilant l’essence cachée des choses.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 109
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Thèse réaliste : le monde sensible n’est qu’une illusion → il faut se tourner vers le monde des idées (Vérité, Réalité et Langage)",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Thèse réaliste : le monde sensible n’est qu’une illusion → il faut se tourner vers le monde des idées (Vérité, Réalité et Langage)",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "9c8f1c6f-a87d-4491-80fb-169330473442"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le langage gomme les particularités de chaque objet pour les ranger dans des cases, des “nom commun”. Notre relation à la réalité est médiatisée, indirecte (nous percevons l’aspect utilitaire).\n- Intelligence : faculté pratique visant l’action sur les choses.\n- Intuition : sentir, vivre le monde dans ce qu’il a d’unique.\nL’identité (",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le langage gomme les particularités de chaque objet pour les ranger dans des cases, des “nom commun”. Notre relation à la réalité est médiatisée, indirecte (nous percevons l’aspect utilitaire).\n- Intelligence : faculté pratique visant l’action sur les choses.\n- Intuition : sentir, vivre le monde dans ce qu’il a d’unique.\nL’identité (",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "lat. idem",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": true,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "lat. idem",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": ") est une création artificielle.\n⇒ On évolue dans un monde stable mais fictif, qui éloigne de la réalité. Risque de se méconnaitre soi-même, en agissant selon la norme.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": ") est une création artificielle.\n⇒ On évolue dans un monde stable mais fictif, qui éloigne de la réalité. Risque de se méconnaitre soi-même, en agissant selon la norme.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 110
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Artifice du langage : il n’y a que des choses particulières, le langage pousse aux concepts généraux, qui sont à fuir.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Artifice du langage : il n’y a que des choses particulières, le langage pousse aux concepts généraux, qui sont à fuir.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La pensée existe-t-elle indépendamment du langage ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "La pensée existe-t-elle indépendamment du langage ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 111
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "16f2c2bb-d394-45a1-a219-aa1d92a99c2a"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Il n’y a pas de pensée sans objectivité. L’objectivité, c’est le langage, qui permet une extériorisation de la pensée.\nOn apprend à penser en apprenant à parler.\nSi le langage ne représente pas exactement la chose à connaître, c’est juste qu’il manifeste une pensée encore en construction.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Il n’y a pas de pensée sans objectivité. L’objectivité, c’est le langage, qui permet une extériorisation de la pensée.\nOn apprend à penser en apprenant à parler.\nSi le langage ne représente pas exactement la chose à connaître, c’est juste qu’il manifeste une pensée encore en construction.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 112
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Pas de pensée sans langage : il faut apporter un lien avec l’extérieur. La pensée c’est le mot.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Pas de pensée sans langage : il faut apporter un lien avec l’extérieur. La pensée c’est le mot.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Désigne-t-on la même chose lorsque l’on utilise un mot commun ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "Désigne-t-on la même chose lorsque l’on utilise un mot commun ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 113
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "776b2c01-752e-4304-8a9a-bc9a5e7ee0e7",
+                        "name": "Le Langage",
+                        "color": "red"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le langage forge notre façon de penser :\nEx expressions idiomatiques : “Il pleut des cordes” → “It is raining cats and dogs”, “Partir à l’anglaise” → “To take a french leave”…\n⇒ Sarcasmes réciproques, lien avec la culture unique du pays.\nLe sens profond des mots est intraduisible car subjectif.\nEx “J’aime la montagne” peut faire référence au ski ou à la nature. Le mot “Montagne” sera perçu différemment selon le sujet.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le langage forge notre façon de penser :\nEx expressions idiomatiques : “Il pleut des cordes” → “It is raining cats and dogs”, “Partir à l’anglaise” → “To take a french leave”…\n⇒ Sarcasmes réciproques, lien avec la culture unique du pays.\nLe sens profond des mots est intraduisible car subjectif.\nEx “J’aime la montagne” peut faire référence au ski ou à la nature. Le mot “Montagne” sera perçu différemment selon le sujet.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 114
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Les mots utilisés sont tous subjectifs, on a chacun une définition propre d’un mot, auquel on confère un sens unique.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Les mots utilisés sont tous subjectifs, on a chacun une définition propre d’un mot, auquel on confère un sens unique.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": []
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "602f40d3-32ca-4711-b2b3-39088b1400ed",
+                        "name": "La Nature",
+                        "color": "blue"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "L'expression « contre nature » a-t-elle un sens ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "L'expression « contre nature » a-t-elle un sens ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 115
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": []
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "9c9aff58-d215-4f56-b538-83466f590982"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "602f40d3-32ca-4711-b2b3-39088b1400ed",
+                        "name": "La Nature",
+                        "color": "blue"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Selon Aristote, la nature ne fait rien en vain → tout a un sens, une fin (philosophie finaliste).\n- L’homme a un langage pour établir les règles politiques (homme = animal politique)\n- Orchidées qui ont des crochets pour déposer le pollen sur les abeilles.\n- Escargots ont une coquille pour se protéger, etc.\nLe sens de la nature, c’est toutes ces caractéristiques naturelles. Mais alors l’esclavage ne serait il pas naturel ? Et l’homosexualité antinaturel ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Selon Aristote, la nature ne fait rien en vain → tout a un sens, une fin (philosophie finaliste).\n- L’homme a un langage pour établir les règles politiques (homme = animal politique)\n- Orchidées qui ont des crochets pour déposer le pollen sur les abeilles.\n- Escargots ont une coquille pour se protéger, etc.\nLe sens de la nature, c’est toutes ces caractéristiques naturelles. Mais alors l’esclavage ne serait il pas naturel ? Et l’homosexualité antinaturel ?",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Politiques",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "green"
+                        },
+                        "plain_text": "Politiques",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 116
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La nature a un sens : tout ce qui est réel hors intervention humaine. Il pourrait donc y avoir des choses qui s’inscriraient contre cet ordre naturel.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "La nature a un sens : tout ce qui est réel hors intervention humaine. Il pourrait donc y avoir des choses qui s’inscriraient contre cet ordre naturel.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "81870ded-51c6-4801-a8d9-328f3b179c70"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": []
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "602f40d3-32ca-4711-b2b3-39088b1400ed",
+                        "name": "La Nature",
+                        "color": "blue"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Nature = résultat de circonstances hasardeuses. Pas de sens.\nExemple des espèces qui disparaissent car pas bien adaptées (pas tout serait naturel).\n”Contre nature” est utilisé pour les actions humaines s’écartant de l’ordre des choses, de la culture. La nature est intimement liée à la culture. Ce qui est étranger, en dehors de la culture, est non naturel.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Nature = résultat de circonstances hasardeuses. Pas de sens.\nExemple des espèces qui disparaissent car pas bien adaptées (pas tout serait naturel).\n”Contre nature” est utilisé pour les actions humaines s’écartant de l’ordre des choses, de la culture. La nature est intimement liée à la culture. Ce qui est étranger, en dehors de la culture, est non naturel.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "De la nature des choses",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "red"
+                        },
+                        "plain_text": "De la nature des choses",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 117
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Distinction nature et culture. Contre-nature est en un préjugé contre-culture. Ce qui mène à la xénophobie, renfermement sur soi.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Distinction nature et culture. Contre-nature est en un préjugé contre-culture. Ce qui mène à la xénophobie, renfermement sur soi.",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        {
+            "Philosophe": {
+                "id": "%3BeI_",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "d7ec3185-1a78-44f1-84f9-929c1d1a83a7"
+                    }
+                ]
+            },
+            "Citation": {
+                "id": "JzU%3D",
+                "type": "relation",
+                "relation": [
+                    {
+                        "id": "e360f988-008f-46ce-a2fc-c16ac2fcc4e6"
+                    }
+                ]
+            },
+            "Notion": {
+                "id": "aS%7B%3F",
+                "type": "multi_select",
+                "multi_select": [
+                    {
+                        "id": "602f40d3-32ca-4711-b2b3-39088b1400ed",
+                        "name": "La Nature",
+                        "color": "blue"
+                    }
+                ]
+            },
+            "Détails": {
+                "id": "h%5EIu",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "L’essence de l’Homme se constitue a posteriori de ses actions.\nL’Homme est libre en tout temps et on ne peut donc pas parler de nature humaine. Angoisse de liberté, mais espoir énorme. \nMonde dirigé uniquement par les lois physiques (C.f Charles Darwin).\nL’Homme est responsable de l’essence humaine ( ⇒ s’invente des contraintes pour fuir cette responsabilité pesante).\n⇒ Il n’y a pas de nature humaine.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "L’essence de l’Homme se constitue a posteriori de ses actions.\nL’Homme est libre en tout temps et on ne peut donc pas parler de nature humaine. Angoisse de liberté, mais espoir énorme. \nMonde dirigé uniquement par les lois physiques (C.f Charles Darwin).\nL’Homme est responsable de l’essence humaine ( ⇒ s’invente des contraintes pour fuir cette responsabilité pesante).\n⇒ Il n’y a pas de nature humaine.",
+                        "href": null
+                    }
+                ]
+            },
+            "Ouvrage": {
+                "id": "yj%3CY",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "L'existentialisme est un humanisme",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "orange"
+                        },
+                        "plain_text": "L'existentialisme est un humanisme",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "%7Cm~D",
+                "type": "number",
+                "number": 118
+            },
+            "Thèse": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Page blanche etc. L’Homme n’est rien d’autre que ce qu’il se fait. Il n’y a pas de nature humaine car pas de dieu pour la concevoir.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Page blanche etc. L’Homme n’est rien d’autre que ce qu’il se fait. Il n’y a pas de nature humaine car pas de dieu pour la concevoir.",
+                        "href": null
+                    }
+                ]
+            }
         }
     ],
     "authors": {
+        "81870ded-51c6-4801-a8d9-328f3b179c70": "Lucrèce",
+        "9c9aff58-d215-4f56-b538-83466f590982": "Aristote",
+        "1e1918b3-bd76-42bd-89eb-84c5f347cb7e": "Voltaire",
         "16f2c2bb-d394-45a1-a219-aa1d92a99c2a": "Hegel",
         "9c8f1c6f-a87d-4491-80fb-169330473442": "Bergson",
         "0f6e5a53-e540-4775-8499-ecee0baf1a64": "Gaston Bachelard",
@@ -9806,6 +11209,7 @@
         "c634fc38-c294-4bb7-8840-7c7db0146677": "Platon"
     },
     "quotes": {
+        "e360f988-008f-46ce-a2fc-c16ac2fcc4e6": "L'homme, sans aucun appui et sans aucun secours, est condamné à chaque instant à inventer l'homme.",
         "f93dfc22-dca5-4d89-b207-d934c316b927": "C'est à la sueur de ton visage que tu mangeras du pain",
         "cc8de666-cdb2-4a82-b6e4-b285a3415039": "Invention humaine, la technique est en retour ce qui invente l'homme et son monde",
         "e3736a16-f1af-4d83-9cee-e345077fe74d": "L'artiste est celui qui voit mieux que les autres",
@@ -10945,11 +12349,29 @@
                 ]
             }
         },
-        "Le Langage": {
+        "La Religion": {
             "Etymologie": {
                 "id": "S%60L%60",
                 "type": "rich_text",
-                "rich_text": []
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "lat. religio → respect dû aux dieux, par extension pratique religieuse.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "lat. religio → respect dû aux dieux, par extension pratique religieuse.",
+                        "href": null
+                    }
+                ]
             },
             "Problématiques": {
                 "id": "f%3C~%3B",
@@ -10959,12 +12381,111 @@
             "Définition": {
                 "id": "kL%3B%7B",
                 "type": "rich_text",
-                "rich_text": []
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Croyance et pratiques collectives relatives à du sacré (divin et surnaturel). Il n’existe pas UNE définition, chaque religion est différente (monothéisme, polythéisme, animisme).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Croyance et pratiques collectives relatives à du sacré (divin et surnaturel). Il n’existe pas UNE définition, chaque religion est différente (monothéisme, polythéisme, animisme).",
+                        "href": null
+                    }
+                ]
             },
             "Order": {
                 "id": "moIf",
                 "type": "number",
                 "number": 11
+            },
+            "Nom": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "La Religion",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "La Religion",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        "Le Langage": {
+            "Etymologie": {
+                "id": "S%60L%60",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "grec. logos → parole, discours, par extension raison et rationalité.",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "grec. logos → parole, discours, par extension raison et rationalité.",
+                        "href": null
+                    }
+                ]
+            },
+            "Problématiques": {
+                "id": "f%3C~%3B",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Définition": {
+                "id": "kL%3B%7B",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Outil de communication permettant de véhiculer des pensées et émotions (instrument, moyen). ⇒ Postérieur à la pensée qu’il exprime.\nLe langage est une association entre le signifiant (lettres, sons) et le signifié (idée, objet).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Outil de communication permettant de véhiculer des pensées et émotions (instrument, moyen). ⇒ Postérieur à la pensée qu’il exprime.\nLe langage est une association entre le signifiant (lettres, sons) et le signifié (idée, objet).",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "moIf",
+                "type": "number",
+                "number": 12
             },
             "Nom": {
                 "id": "title",
@@ -10990,35 +12511,15 @@
                 ]
             }
         },
-        "Le Temps": {
+        "La Nature": {
             "Etymologie": {
                 "id": "S%60L%60",
                 "type": "rich_text",
-                "rich_text": []
-            },
-            "Problématiques": {
-                "id": "f%3C~%3B",
-                "type": "rich_text",
-                "rich_text": []
-            },
-            "Définition": {
-                "id": "kL%3B%7B",
-                "type": "rich_text",
-                "rich_text": []
-            },
-            "Order": {
-                "id": "moIf",
-                "type": "number",
-                "number": 12
-            },
-            "Nom": {
-                "id": "title",
-                "type": "title",
-                "title": [
+                "rich_text": [
                     {
                         "type": "text",
                         "text": {
-                            "content": "Le Temps",
+                            "content": "lat. natura → action de mettre au monde, essence, cours des choses.",
                             "link": null
                         },
                         "annotations": {
@@ -11029,27 +12530,56 @@
                             "code": false,
                             "color": "default"
                         },
-                        "plain_text": "Le Temps",
+                        "plain_text": "lat. natura → action de mettre au monde, essence, cours des choses.",
                         "href": null
                     }
                 ]
-            }
-        },
-        "La Nature": {
-            "Etymologie": {
-                "id": "S%60L%60",
-                "type": "rich_text",
-                "rich_text": []
             },
             "Problématiques": {
                 "id": "f%3C~%3B",
                 "type": "rich_text",
-                "rich_text": []
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "L'expression « contre nature » a-t-elle un sens ?",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "L'expression « contre nature » a-t-elle un sens ?",
+                        "href": null
+                    }
+                ]
             },
             "Définition": {
                 "id": "kL%3B%7B",
                 "type": "rich_text",
-                "rich_text": []
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Tout ce qui existe indépendamment des interventions humaines (réel ≠ artifice). Concept polysémique car il désigne également les caractères humains/animaux (nature humaine et lois de la nature).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Tout ce qui existe indépendamment des interventions humaines (réel ≠ artifice). Concept polysémique car il désigne également les caractères humains/animaux (nature humaine et lois de la nature).",
+                        "href": null
+                    }
+                ]
             },
             "Order": {
                 "id": "moIf",
@@ -11075,6 +12605,138 @@
                             "color": "default"
                         },
                         "plain_text": "La Nature",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        "Le Temps (et l’existence)": {
+            "Etymologie": {
+                "id": "S%60L%60",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "lat. tempus → fraction de la durée,\ntemps (coupure, à la fois puissance de division et de réunification).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "lat. tempus → fraction de la durée,\ntemps (coupure, à la fois puissance de division et de réunification).",
+                        "href": null
+                    }
+                ]
+            },
+            "Problématiques": {
+                "id": "f%3C~%3B",
+                "type": "rich_text",
+                "rich_text": []
+            },
+            "Définition": {
+                "id": "kL%3B%7B",
+                "type": "rich_text",
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Temps :",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Temps :",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " milieu infini dans lequel se succèdent les événements, mouvement\nininterrompu et irréversible par lequel le présent devient passé, durée comme quantité mesurable.\n",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " milieu infini dans lequel se succèdent les événements, mouvement\nininterrompu et irréversible par lequel le présent devient passé, durée comme quantité mesurable.\n",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Existence :",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Existence :",
+                        "href": null
+                    },
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": " mode d'être caractérisé par le fait d'être concrètement. (réel ou non) ; vie, manière de vivre (pris dans la durée, ou dans sa qualité).",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": " mode d'être caractérisé par le fait d'être concrètement. (réel ou non) ; vie, manière de vivre (pris dans la durée, ou dans sa qualité).",
+                        "href": null
+                    }
+                ]
+            },
+            "Order": {
+                "id": "moIf",
+                "type": "number",
+                "number": 14
+            },
+            "Nom": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Le Temps (et l'existence)",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Le Temps (et l'existence)",
                         "href": null
                     }
                 ]
